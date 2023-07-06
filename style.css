@@ -1,0 +1,28 @@
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+.paragraph-2 {
+    border: 10px solid yellow
+    border-radius: 5px;
+    font-size: 24pt;
+}
+.paragraph-3 {
+    font-weight:bold;
+    font-size: 22px;
+    font-family: Courirer New
+}
+.paragraph-4 {
+    text-align:center;
+    font-style:italic;
+    font-size:24px;
+    text-shadow: 3px -4px 5px green;
+}
+background - задний фон
+font-size - размер шрифта
+color - задает цыет шрифта
+border - рамка вокруг элемента
+border-radius - закругление рамки
+font-weight - жирный шрифт
+font-family - стиль шрифта
